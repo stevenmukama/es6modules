@@ -88,7 +88,7 @@ nav {
 }
 
 footer {
-  border: 2px solid #000;
+  border: 2px solid rgb(0, 0, 0);
   margin: 1%;
   position: fixed;
   background-color: #fff;
@@ -102,7 +102,7 @@ footer {
 }
 
 a {
-  color: black;
+  color: rgb(0, 0, 0);
   text-decoration: none;
 }
 
